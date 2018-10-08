@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  
+=======
+
+>>>>>>> 2e830b3b6ebc74130a51e7559d657245e10185ca
 
 #Bamazon
 
@@ -12,6 +16,10 @@ In order to run this application, you should have the MySQL database already set
 ###Customer Interface
 The customer interface allows the user to view the current inventory of store items: item IDs, descriptions, department in which the item is located and price. The user is then able to purchase one of the existing items by entering the item ID and the desired quantity. If the selected quantity is currently in stock, the user's order is fulfilled, displaying the total purchase price and updating the store database. If the desired quantity is not available, the user is prompted to modify their order, and the application is restarted.
 
-*Below is the working example:
+Below is the working example:
 
+<<<<<<< HEAD
 [bAmazon Customer Cli](Video/bamazonCustomer.mov)
+=======
+![bAmazon Customer Cli](Video/bamazonCustomer.mov)
+>>>>>>> 2e830b3b6ebc74130a51e7559d657245e10185ca
