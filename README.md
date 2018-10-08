@@ -1,8 +1,4 @@
-<<<<<<< HEAD
- 
-=======
 
->>>>>>> 2e830b3b6ebc74130a51e7559d657245e10185ca
 
 #Bamazon
 
@@ -18,8 +14,5 @@ The customer interface allows the user to view the current inventory of store it
 
 Below is the working example:
 
-<<<<<<< HEAD
 [bAmazon Customer Cli](Video/bamazonCustomer.mov)
-=======
-![bAmazon Customer Cli](Video/bamazonCustomer.mov)
->>>>>>> 2e830b3b6ebc74130a51e7559d657245e10185ca
+
